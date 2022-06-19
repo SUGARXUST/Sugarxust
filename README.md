@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sugarlust
-- 👀 (I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning new aspects of computer science everyday
+- 🌱 I’m currently learning FRONTEND DEVLOPMENT.
 - 💞️ I’m looking to collaborate on anything interesting
 
 <!---
