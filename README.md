@@ -6,11 +6,11 @@
 <table>
   <tr>
     <td valign="top">
-      <h3>Contributing To: </h3>
-      <h6><a href='https://github.com/Sugarlust/oshi'>OSHI</a></h6>
-      <h6><a href='https://github.com/Sugarlust/mapbox-gl-js'>MAPBOX-GL</a></h6>
- 
-    </td>
+      <h3>Most starred repos: </h3>
+            <h6>⭐️&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;97 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;34 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1356 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
+    </td
     <td valign="top">
       <h3>My stack: </h3>
       <h6>📔&emsp;C++</h6>
