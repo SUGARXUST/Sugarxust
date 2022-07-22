@@ -31,5 +31,5 @@ C++            1 hr 15 mins        █░░░░░░░░░    10.31%
 
 
 <hr>
-<h4 align="center">Other – <a href='http://feschenko.org' target="_blank">feschenko.org</a><h4>
+<h4 align="center">Other – <a href='' target="_blank"></a><h4>
     
