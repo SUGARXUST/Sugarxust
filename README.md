@@ -8,14 +8,15 @@
     <td valign="top">
       <h3>My Tech Stack: </h3>
       <h6>📔&emsp;LANGUAGES : C/C++, Python, Javascript, HTML & CSS.</h6>
-      <h6>📗&emsp;WEB DEV STACK : MongoDB, React.js, express.js, node.js, flow.</h6>
+      <h6>📗&emsp;WEB DEV STACK : MongoDB, React.js, node.js, flow.</h6>
       <h6>📘&emsp;IDE : PyCharm , VScode.</h6>
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-      <h6>⭐️&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://github.com/Sugarlust/flaggit'>FLAGGIT (UI)</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://github.com/Sugarlust/Geo-Dude'>Geo-Dude</a></h6>
+      <h6>⭐️&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://github.com/Sugarlust/QRIE'>QRIE</h6> 
       <h6>⭐️&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://github.com/Sugarlust/estatey'>ESTATEY (web scrapper)</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://github.com/Sugarlust/ALGOS'>ALGOS</h6> 
+      
         </td>
   </tr>
 </table>
@@ -31,5 +32,5 @@ C++            1 hr 15 mins        █░░░░░░░░░    10.31%
 
 
 <hr>
-<h4 align="center">Other – <a href='' target="_blank"></a><h4>
+<h4 align="center"><a href='' target="_blank"></a><h4>
     
