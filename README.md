@@ -24,6 +24,8 @@
 
 
 ```text
+Learning React.js and Typescript.
+
 Javascript     12 hrs 25 mins      ██████░░░░    70.52%
 python         2 hrs               ██░░░░░░░░    15.98%
 C++            1 hr 15 mins        █░░░░░░░░░    10.31%
