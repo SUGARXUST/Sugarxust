@@ -17,7 +17,7 @@
       <h6>⭐️&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://github.com/Sugarlust/QRIE'>QRIE</h6> 
       <h6>⭐️&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://github.com/Sugarlust/estatey'>ESTATEY (web scrapper)</a></h6> 
       
-        </td>
+     </td>
   </tr>
 </table>
 <h2>📊 Weekly development breakdown: </h2>
