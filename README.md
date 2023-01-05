@@ -74,7 +74,7 @@
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUGARXUST&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&bg_color=101820&locale=en&layout=compact" alt="SUGARXUST" /></p>
 
-![snake gif](https://github.com/SUGARXUST/SUGARXUST/blob/output/github-contribution-grid-snake.gif)
+![snake gif](github-contribution-grid-snake.svg)
   
 
 <br/>  
